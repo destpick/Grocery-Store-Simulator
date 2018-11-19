@@ -1,0 +1,7 @@
+﻿  functionDefinitions.c
+c:\users\desta\desktop\school\cpts122\pa4 grocerystoresimulation\consoleapplication1\functiondefinitions.c(50): warning C4047: '=': 'int' differs in levels of indirection from 'Data *'
+c:\users\desta\desktop\school\cpts122\pa4 grocerystoresimulation\consoleapplication1\functiondefinitions.c(164): warning C4553: '==': result of expression not used; did you intend '='?
+  main.c
+c:\users\desta\desktop\school\cpts122\pa4 grocerystoresimulation\consoleapplication1\main.c(9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\Desta\Desktop\School\Cpts122\PA4 GroceryStoreSimulation\x64\Debug\ConsoleApplication1.exe
